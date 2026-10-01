@@ -78,14 +78,6 @@ Orderly is an enterprise-oriented procurement operations system designed to digi
 
 ---
 
-## Achievements & Leadership
-
-- **SIH Internal Hackathon — Team Leader:** Selected among the Top 200 out of 800+ teams in the internal Smart India Hackathon selection.
-- **Sponsorship Lead, TEDxMITADT:** Led sponsor outreach, partnership negotiations, and coordination activities to support campus event execution.
-- **Website Team Member, Club Computing Club:** Contributed to technical event planning and digital presence coordination.
-
----
-
 ## Currently Exploring
 
 - Large Language Models (LLMs)
