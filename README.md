@@ -1,6 +1,6 @@
 # Hi, I'm Ruhaa Bhalerao
 
-Software Product Engineering Student | Full-Stack Developer | AI-Powered Products
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=2563EB&width=480&lines=Software+Product+Engineering+Student;Full-Stack+Developer;AI-Powered+Product+Builder;Exploring+AI+Engineering+%26+LLMs)](https://github.com/RuhaaBhalerao)
 
 ---
 
@@ -14,14 +14,28 @@ I specialize in full-stack web development and AI-powered applications, with a f
 
 ## Technical Skills
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Python, C++, Java, JavaScript, TypeScript |
-| **Frontend** | React, Next.js |
-| **Backend** | Node.js, Express, REST APIs, WebSockets |
-| **Databases** | MongoDB, PostgreSQL, Prisma ORM, Neon |
-| **AI** | OpenRouter AI, AI API Integration, LLM-Based Applications, AI-Powered Features |
-| **Tools & Platforms** | Git, GitHub, Postman, Docker, Figma, Vercel, Render |
+### Languages
+[![Languages](https://skillicons.dev/icons?i=python,cpp,java,js,ts)](https://skillicons.dev)  
+Python | C++ | Java | JavaScript | TypeScript
+
+### Frontend
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs)](https://skillicons.dev)  
+React | Next.js
+
+### Backend
+[![Backend](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)  
+Node.js | Express | REST APIs | WebSockets
+
+### Databases
+[![Databases](https://skillicons.dev/icons?i=mongodb,postgres,prisma)](https://skillicons.dev)  
+MongoDB | PostgreSQL | Prisma ORM | Neon
+
+### AI & LLMs
+OpenRouter AI | AI API Integration | LLM-Based Applications | Prompt Engineering
+
+### Tools & Deployment
+[![Tools](https://skillicons.dev/icons?i=git,github,postman,docker,figma,vercel)](https://skillicons.dev)  
+Git | GitHub | Postman | Docker | Figma | Vercel | Render
 
 ---
 
@@ -31,6 +45,8 @@ I specialize in full-stack web development and AI-powered applications, with a f
 **AI-Powered Insurance Claim Review Platform**
 
 MediBridge AI is a full-stack healthcare insurance review platform that assists users in navigating complex policy terms and hospital estimates. The platform extracts and processes data from uploaded insurance documents and hospital bills, utilizing strict LLM integration through OpenRouter to deliver contextual claim insights, coverage breakdowns, and out-of-pocket estimates through an interactive interface.
+
+[![MediBridge AI Stack](https://skillicons.dev/icons?i=react,vite,nodejs,express,mongodb,vercel)](https://skillicons.dev)
 
 - **Tech Stack:** React, Vite, Node.js, Express, MongoDB, REST APIs, OpenRouter AI, JWT, PDF-Parse, Vercel, Render
 - **Key Implementation Areas:**
@@ -48,6 +64,8 @@ MediBridge AI is a full-stack healthcare insurance review platform that assists 
 **Full-Stack Procurement Management Platform**
 
 Orderly is an enterprise-oriented procurement operations system designed to digitize and manage the purchasing lifecycle from purchase request submission to purchase order generation. Built with Next.js, Express, and PostgreSQL, the platform establishes structured approval hierarchies, supplier evaluations, and auditability for procurement teams without relying on generative AI.
+
+[![Orderly Stack](https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,express,postgres,prisma,tailwind,vercel)](https://skillicons.dev)
 
 - **Tech Stack:** Next.js, React, TypeScript, Node.js, Express, PostgreSQL, Prisma ORM, Neon, REST APIs, JWT, Zod, Vercel
 - **Key Implementation Areas:**
@@ -81,5 +99,8 @@ Orderly is an enterprise-oriented procurement operations system designed to digi
 
 ## Connect With Me
 
-- **LinkedIn:** [linkedin.com/in/RuhaaBhalerao-945924222](https://www.linkedin.com/in/RuhaaBhalerao-945924222/)
+[![GitHub](https://img.shields.io/badge/GitHub-RuhaaBhalerao-181717?style=flat&logo=github)](https://github.com/RuhaaBhalerao)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ruhaa_Bhalerao-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/RuhaaBhalerao-945924222/)
+
 - **GitHub:** [github.com/RuhaaBhalerao](https://github.com/RuhaaBhalerao)
+- **LinkedIn:** [linkedin.com/in/RuhaaBhalerao-945924222](https://www.linkedin.com/in/RuhaaBhalerao-945924222/)
